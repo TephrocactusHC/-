@@ -1,3 +1,5 @@
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TephrocactusHC&repo=DATA-ANALYSIS)](https://github.com/anuraghazra/github-readme-stats)
+
 # 法大的一个经济学课程的作业，内容大概是数据分析
 ***ZGZFDX的数据分析的课程的小作业***<br>
 
