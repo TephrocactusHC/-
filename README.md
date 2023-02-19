@@ -1,7 +1,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TephrocactusHC&repo=DATA-ANALYSIS)](https://github.com/anuraghazra/github-readme-stats)
 
 # 法大的一个经济学课程的作业，内容大概是数据分析
-***ZGZFDX的数据分析的课程的小作业***<br>
+***中国政法大学的数据分析的课程的小作业***<br>
 
 整体上是最基础的数据分析操作的内容，包括对pandas,numpy,matplotlib库的使用，重点考察了数据预处理和数据分析的内容，都较为基础。<br>
 没有使用任何ML/RL的方法，仅仅是对数据的简单操作。事实上，.dat数据更适合STATA这类统计软件，而且我个人认为熟练掌握数据库和EXCEL等办公软件也能做到很好的数据分析效果，
